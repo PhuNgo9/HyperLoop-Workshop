@@ -1,0 +1,8 @@
+'''
+
+#Get input from user, print it out
+userinput = input()
+print("You said: " + userinput)
+print(f"You said: {userinput}")
+
+'''
